@@ -1,0 +1,10 @@
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\bin\Debug\ColorPick.exe.config
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\bin\Debug\ColorPick.exe
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\bin\Debug\ColorPick.pdb
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\obj\Debug\ColorPick.csprojAssemblyReference.cache
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\obj\Debug\ColorPick.Form1.resources
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\obj\Debug\ColorPick.Properties.Resources.resources
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\obj\Debug\ColorPick.csproj.GenerateResource.cache
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\obj\Debug\ColorPick.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\obj\Debug\ColorPick.exe
+C:\Users\samue\Documents\VSprojects\ColorPick\ColorPick\obj\Debug\ColorPick.pdb
